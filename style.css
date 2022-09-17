@@ -29,7 +29,7 @@ body{
     width: 25%;
 }
 .warning{
-    width: 60%;
+    width: 90%;
     margin: 30px auto;
     display: flex;
     flex-direction: column;
@@ -65,7 +65,7 @@ input[type='range']{
     opacity: 0;
     z-index: 99;
     transition: 0.2s ease;
-    top: 100px;
+    top: 230px;
     left: 50px;
     background-color: #EC7272;
     padding: 1%;
@@ -156,7 +156,7 @@ nav div{
     padding: 30px;
     background-image: url('https://i.pinimg.com/564x/e1/7d/f2/e17df216e85e7a958e8269b151ff56d0.jpg');
     color: #fff;
-    width: 50%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -185,10 +185,10 @@ nav div{
 
 .item{
     cursor: pointer;
-    border: 1px solid #ccc;
+    background-color: #fff;
     padding: 0.5%;
     height: fit-content;
-    width: calc(25% - 10px);
+    width: calc(23% - 10px);
     overflow: hidden;
 }
 
