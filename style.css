@@ -352,3 +352,12 @@ ul li .content h3{
     display: flex;
     flex-direction: row;
 }
+
+@media screen and (min-width: 1279.98px) {
+    .container{
+        padding: 2% 15%;
+    }
+    .header{
+        padding: 1% 19%;
+    }
+}
